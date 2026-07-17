@@ -66,7 +66,7 @@ The course has been designed as a LiaScript-first open educational resource. Its
 
 > Important: This course does not constitute legal advice and is not a substitute for guidance from your institution’s Open Science, research data management, ethics, or legal support services. It is designed to help you identify the right questions and prepare informed decisions.
 
-![Illustration of a smiling toolbox containing a wrench, magnifying glass, and calculator, representing the tools used throughout the course](Competency.png)<!-- style="display: block; width: 30%; max-width: 220px; margin: 5rem auto 0 auto;" -->
+![Illustration of a smiling toolbox containing a wrench, magnifying glass, and calculator, representing the tools used throughout the course](./images/Competency.png)<!-- style="display: block; width: 30%; max-width: 220px; margin: 5rem auto 0 auto;" -->
 
 ## Two guiding pathways
 
